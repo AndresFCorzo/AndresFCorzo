@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Andres Felipe Corzo 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1BbIYaLmL0Og6NPPnRxMbzJW9ELgofubA/view?usp=sharing">
+<img src="https://i.imgur.com/jD4JNDr.png">
 
 ## Sobre mí
 Soy Data Scientist apasionado por el mundo de los datos, graduado de Henry, en el cual desarrolle mis habilidades en la visualización de datos, modelos de machine learning, procesos en la nube, y creación de aplicaciones, entre otros.
